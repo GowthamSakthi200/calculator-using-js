@@ -1,0 +1,59 @@
+body
+{
+    border: 2px  black;
+    margin: 200px;
+    margin-top: 70px;
+    padding-bottom: 40px;
+    border-radius: 40px;
+    background-image: linear-gradient(to right,white,rgb(96, 76, 76));
+}
+h1
+{
+    text-align: center;
+    font-size: 55px;
+}
+#result
+{
+    text-align: right;
+    height: 40px;
+    width: 290px;
+    font-size: 30px;
+}
+.main 
+{
+    text-align: center;
+}
+.btn   
+{
+    height: 65px;
+    width: 65px;
+    border-radius: 
+}
+.btn2
+{
+    height: 40px;
+    width: 240px;
+}
+.btn
+{
+    background-color: lightgreen;
+    border: none;
+    border-radius: 50%;
+    font-size: 20px;
+}
+.btn2
+{
+    background-color: rgb(243, 91, 91);
+    border-radius: 20px;
+    font-size: 20px;
+}
+.btn:hover
+{
+    background-color: rgb(32, 212, 32);
+    transition-duration: 0.3s;
+}
+.btn2:hover
+{
+    background-color: red;
+    transition-duration: 0.3s;
+}
